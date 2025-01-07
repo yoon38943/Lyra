@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\AdvancedShooting\\Source\\AdvancedShooting\\AdvancedShooting.Build.cs",
+		"D:\\AdvancedShooting\\Source\\AdvancedShooting.Target.cs",
+		"D:\\AdvancedShooting\\Source\\AdvancedShootingEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
