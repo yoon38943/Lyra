@@ -78,4 +78,5 @@ void UHShootingAnimInstance::HGetLocationData()
 	HWorldLocation = HProxy.ActorLocation;
 	FVector Delta = HWorldLocation - HLastFrameWorldLocation;
 	HDeltaLocation = Delta.Length();
+
 }
